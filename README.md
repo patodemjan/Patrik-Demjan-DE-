@@ -11,6 +11,7 @@ Ich konzentriere mich vor allem auf die **Erstellung von modernen Websites und W
 - ☕ Java – Fortgeschrittene Kenntnisse
 - 🌱 Spring + Spring Boot Grundkenntnisse (inkl. REST-APIs, Dependency Injection, Hibernate, Actuator, CRUD)
 - 🧑‍💻 Eclipse IDE - Effizientes Entwickeln
+- 💡 IntelliJ IDEA – Effizientes Entwickeln mit modernen Tools
 - 📦 Maven – Erstellen und Verwalten von Spring Boot-Projekten
 - 🌐 HTML & CSS - Solide Grundkenntnisse
 - 🤖 ChatGPT / KI (Grundkenntnisse in Prompt-Erstellung & Nutzung)
