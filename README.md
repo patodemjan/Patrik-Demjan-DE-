@@ -15,6 +15,9 @@ Ich konzentriere mich vor allem auf die **Erstellung von modernen Websites und W
 - 🌐 HTML & CSS - Solide Grundkenntnisse
 - 🤖 ChatGPT / KI (Grundkenntnisse in Prompt-Erstellung & Nutzung)
 - 🧰 Visual Studio – Effizientes Entwickeln
+- 👨‍💻 Angular Grundkenntnisse (Routing, Modules, Components...)
+- 🧠 TypeScript Grundkenntnisse
+- 🌿 Git & GitHub Grundkenntnisse
 
 ---
 
