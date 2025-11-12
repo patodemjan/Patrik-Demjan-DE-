@@ -1,5 +1,11 @@
 # 👋 Hallo, ich bin Patrik
 
+### 🧠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,java,spring,angular,ts,maven,git,github,eclipse,idea,vscode,chatgpt" />
+
+---
+
 Ich arbeite derzeit als Lehrer 📚 und habe eine große Leidenschaft für das Programmieren 💻.  
 Ich konzentriere mich vor allem auf die **Erstellung von modernen Websites und Webanwendungen**, insbesondere mit **Java** und grundlegenden **Webtechnologien**.
 
